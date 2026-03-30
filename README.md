@@ -1,2 +1,2 @@
-# power-bi-projects
-learning Bower BI projects
+# Health Nut
+Tracking my health + nutrition using Power BI
